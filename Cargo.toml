@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_noctalia"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS noctalia component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_noctalia"
+path = "src/lib.rs"
